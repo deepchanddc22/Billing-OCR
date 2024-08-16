@@ -1,0 +1,9 @@
+paddlepaddle
+paddleocr
+pdf2image
+google-generativeai
+ollama
+langchain_community
+fastapi
+uvicorn
+python-multipart
